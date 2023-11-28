@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  micro-service-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-28T14:52:23.084749-07:00"
+    description: A Helm chart for micro service
+    digest: 3e9031e7846ce770d0af89f98a7e8c651cacf0ddccd13e548dd7ca6de210dc92
+    name: micro-service-helm-chart
+    type: application
+    urls:
+    - micro-service-helm-chart/micro-service-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-28T14:52:23.084242-07:00"
